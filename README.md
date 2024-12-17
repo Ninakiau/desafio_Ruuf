@@ -15,7 +15,7 @@ El algoritmo implementado realiza lo siguiente:
 1. **Clona este repositorio** en tu máquina local:
    ```bash
    git clone https://github.com/Ninakiau/desafio_Ruuf.git
-   cd tu-repositorio
+   cd desafio_Ruuf
    ```
 
 2. **Requisitos**:
